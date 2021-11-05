@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MLesson6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="some_photos">joshua_l The game in Japan was amazing and I want to share some photos</string>
+    <string name="september_19">September 19</string>
+    <string name="karennne_liked_your_photo">karennne liked your photo.</string>
+    <string name="_1h">1h</string>
+</resources>
